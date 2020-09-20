@@ -9,10 +9,14 @@ $ pip3 install Image piexif
 
 
 ## 動作確認環境
-Python3.8.5/macOS/Sony A7M2
+Python3.8.5/macOS/Sony A7M2 JPG file
 
 
 ## 実行方法
 ```shell
-$ python3 shutter-count.py 'filename'
+$ python3 exif-scan.py 'filename'
 ```
+
+## リファレンス
+__piexif__  
+https://piexif.readthedocs.io/en/latest/index.html
